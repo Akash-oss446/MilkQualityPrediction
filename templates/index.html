@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre&display=swap"
+      rel="stylesheet"
+    />
+
+    <link href="../static/main.css" rel="stylesheet" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="/predict" method="post">
+    <div class="v1_2">
+      <span class="v1_3">
+        Forecasting Milk Quality :A Predictive Analysis Approach
+      </span>
+      <div class="v2_26"></div>
+      <input type="text" name="phvalue" class="v4_30 v3_27" placeholder="Enter pH Value" />
+      <select name="taste" class="v4_38 v4_39">
+        <option value="no">Select Taste Type</option>
+        <option value="Bad">Bad</option>
+        <option value="Good">Good</option>
+      </select>
+      <select name="odor" class="v4_36 v4_37">
+        <option value="no">Select Odor Type</option>
+        <option value="Bad">Bad</option>
+        <option value="Good">Good</option>
+      </select>
+      <select name="fat1" class="v4_33 v4_34">
+        <option value="no">Select Fat Content</option>
+        <option value="Low">Low</option>
+        <option value="High">High</option>
+      </select>
+      <select name="tub" class="v4_42 v4_44">
+        <option value="no">Select turbility of milk</option>
+        <option value="Low">Low</option>
+        <option value="High">high</option>
+      </select>
+      <input type="text" name="color1" class="v4_43 v4_45" placeholder="Enter color Value" />
+      <input type="text" name="temp" class="v4_32 v4_31" placeholder="Enter Temperature" />
+      <input type="submit" name="btn1" class="v4_46 v4_47"/>
+      <input type="button" name="btn2" value="Clear" class="v4_48 v4_49" />
+    </div>
+  </body>
+</form>
+</html>

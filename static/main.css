@@ -1,0 +1,321 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 982px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 84px;
+  left: 300px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Medium;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_26 {
+  width: 75%;
+  height: 9px;
+  background: rgba(5,5,5,1);
+  opacity: 1;
+  position: absolute;
+  top: 153px;
+  left: 228px;
+  overflow: hid2den;
+}
+input {
+  width: 536px;
+  height: 73px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 238px;
+  left: 228px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_31 {
+  width: 536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 238px;
+  left: 800px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_36 {
+  width:536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 363px;
+  left: 800px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_38 {
+  width: 536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 485px;
+  left: 228px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_40 {
+  width:536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 491px;
+  left: 800px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_42 {
+  width: 536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 491px;
+  left: 800px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_41 {
+  width: 315px;
+  color: rgba(173,164,164,1);
+  position: absolute;
+  top: 501px;
+  left: 605px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_39 {
+  width: 536px;
+  color: rgba(173,164,164,1);
+  position: absolute;
+  top: 501px;
+  left: 228px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_37 {
+  width: 536px;
+  color: rgba(173,164,164,1);
+  position: absolute;
+  top: 372px;
+  left: 814px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_34 {
+  width: 536px;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 363px;
+  left: 228px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_30 {
+  width: 536px;
+  color: rgba(141,135,135,1);
+  position: absolute;
+  top: 254px;
+  left: 228px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_33 {
+  width: 536px;
+  color: rgba(173,164,164,1);
+  position: absolute;
+  top: 379px;
+  left: 228px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_32 {
+  width: 536px;
+  color: rgba(130,123,123,1);
+  position: absolute;
+  top: 254px;
+  left: 814px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_43 {
+  width: 75%;
+  height: 73px;
+  background: rgba(254,254,254,1);
+  opacity: 1;
+  position: absolute;
+  top: 626px;
+  left: 228px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v4_45 {
+  width: 78%;
+  color: rgba(173,164,164,1);
+  position:absolute;
+  top: 634px;
+  left: 228px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_44 {
+  width: 536px;
+  color: rgba(173,164,164,1);
+  position: absolute;
+  top: 501px;
+  left: 814px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_46 {
+  width: 183px;
+  height: 71px;
+  background: rgba(58,97,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 740px;
+  left: 228px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v4_47 {
+  width: 137px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 751px;
+  left: 228px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_48 {
+  width: 172px;
+  height: 71px;
+  background: rgba(59,97,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 740px;
+  left: 496px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v4_49 {
+  width: 137px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 751px;
+  left: 541px;
+  font-family: Frank Ruhl Libre;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.h1{
+  text-align: center;
+  background-color: rgb(147, 240, 200);
+  top: 1000px;
+  font-weight: bold;
+  font-size: xx-large;
+  margin-top: 300px;
+}
+.h2
+{
+  text-align: center;
+  background-color: red;
+  font-weight:bold;
+  font-size: xx-large;
+}
